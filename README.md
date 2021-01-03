@@ -1,2 +1,2 @@
 # phoebe_lab2
-![alt text](http://url/to/img.png)
+![alt text](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
